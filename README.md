@@ -1,5 +1,8 @@
 # AI-Helpdesk-Copilot-LLM-RAG-System
 
+<img width="1143" height="661" alt="image" src="https://github.com/user-attachments/assets/758c3594-373d-469d-a37f-5d3fa33ccc1e" />
+
+
 # AI Helpdesk Copilot: Ticket Classification, Semantic Search, Risk Analysis & Solution Recommendation
 
 ## Overview
